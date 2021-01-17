@@ -24,3 +24,7 @@ mosaico-subs](https://github.com/levxyca/mosaico-subs)
 #### 👨‍💻 HTML/CSS
 
 - Minha versão do site Linktree. Link: [my-linktree](https://github.com/levxyca/my-linktree)
+
+#### 👨‍💻 JAVASCRIPT
+
+- Clone do jogo Doodle Jump com JavaScript, HTML e CSS. [Doodle Jump](https://github.com/levxyca/doodle-jump)
