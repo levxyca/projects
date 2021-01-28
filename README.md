@@ -28,3 +28,4 @@ Mosaico do Subs](https://github.com/levxyca/mosaico-subs)
 #### 👨‍💻 JAVASCRIPT
 
 - Clone do jogo Doodle Jump com JavaScript, HTML e CSS. ➡️ [Doodle Jump](https://github.com/levxyca/doodle-jump)
+- Clone do jogo Flappy Bird com JavaScript, HTML e CSS. ➡️ [Flappy Bird](https://github.com/levxyca/flappy-bird)
