@@ -24,6 +24,7 @@ Mosaico do Subs](https://github.com/levxyca/mosaico-subs)
 #### 👨‍💻 HTML/CSS
 
 - Minha versão do site Linktree. ➡️ [Clone do Linktree](https://github.com/levxyca/my-linktree)
+- Site para o pandadomalbot, um bot criado para o meu [canal da twitch](https://www.twitch.tv/levxyca) ➡️ [Site do pandadomalbot](https://github.com/levxyca/site-pandadomalbot)
 
 #### 👨‍💻 JAVASCRIPT
 
