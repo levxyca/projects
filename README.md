@@ -16,8 +16,12 @@
 
 - A personal site made to share my experience in the world of technology. Made with HTML and CSS. ➡️ [Meu site](https://github.com/levxyca/levxyca.github.io)
 
+- Meu currículo online feito com HTML e CSS. ➡️ [Meu Resumo](https://github.com/levxyca/levxyca.github.io)
+
 - Esse foi um projeto desenvolvido para estudar Grid Layout. Criei umi mosaico com o nome de todos os meus subs naquele dia. ➡️ [
 Mosaico do Subs](https://github.com/levxyca/mosaico-subs)
+
+- Challenge: Create a Recipe Page following the design. The page should be responsive. ➡️ [Recipe Page](https://github.com/levxyca/recipe-page)
 
 > 2021
 
