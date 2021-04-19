@@ -34,3 +34,6 @@ Mosaico do Subs](https://github.com/levxyca/mosaico-subs)
 
 - Clone do jogo Doodle Jump com JavaScript, HTML e CSS. ➡️ [Doodle Jump](https://github.com/levxyca/doodle-jump)
 - Clone do jogo Flappy Bird com JavaScript, HTML e CSS. ➡️ [Flappy Bird](https://github.com/levxyca/flappy-bird)
+
+#### 👨‍💻 GERADOR DE SITE ESTÁTICO
+- Site para armezenar meus resumos e afins. Criado utilizando um gerador de site estático chamado Zola. ➡️ [Docs](https://github.com/levxyca/docs)
