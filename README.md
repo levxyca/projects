@@ -23,17 +23,23 @@ Mosaico do Subs](https://github.com/levxyca/mosaico-subs)
 
 - Challenge: Create a Recipe Page following the design. The page should be responsive. ➡️ [Recipe Page](https://github.com/levxyca/recipe-page)
 
+#### 👨‍💻 JAVASCRIPT
+
+- Um bot muito carinhoso criado para divertir o chat do canal da 'levxyca'. Projeto Open Source. ➡️ [pandadomalbot](https://github.com/levxyca/pandadomalbot)
+
+
 > 2021
 
 #### 👨‍💻 HTML/CSS
 
-- Minha versão do site Linktree. ➡️ [Clone do Linktree](https://github.com/levxyca/my-linktree)
+- Minha versão do site Linktree. ➡️ [Clone do Linktree](https://github.com/levxyca/links)
 - Site para o pandadomalbot, um bot criado para o meu [canal da twitch](https://www.twitch.tv/levxyca) ➡️ [Site do pandadomalbot](https://github.com/levxyca/site-pandadomalbot)
 
 #### 👨‍💻 JAVASCRIPT
 
 - Clone do jogo Doodle Jump com JavaScript, HTML e CSS. ➡️ [Doodle Jump](https://github.com/levxyca/doodle-jump)
 - Clone do jogo Flappy Bird com JavaScript, HTML e CSS. ➡️ [Flappy Bird](https://github.com/levxyca/flappy-bird)
+- Página feita com HTML/CSS/Javascript. Onde você clica no botão a cor de fundo da página é alterada aleatoriamente e o hexadecimal da cor é mostrada no centro da tela. ➡️ [Color Flipper](https://github.com/levxyca/colorflipper)
 
 #### 👨‍💻 GERADOR DE SITE ESTÁTICO
 - Site para armezenar meus resumos e afins. Criado utilizando um gerador de site estático chamado Zola. ➡️ [Docs](https://github.com/levxyca/docs)
