@@ -42,6 +42,7 @@ Reune todos os meus projetos separados por tecnologia e ano de desenvolvimento. 
 - [Doodle Jump](https://github.com/levxyca/doodle-jump) :computer_mouse: Clone do jogo Doodle Jump
 - [Flappy Bird](https://github.com/levxyca/flappy-bird)  :computer_mouse: Clone do jogo Flappy Bird
 - [Color Flipper](https://github.com/levxyca/colorflipper) :computer_mouse: Clique no botão e a cor de fundo da página é alterada aleatoriamente e o hexadecimal da cor é mostrada no centro da tela
+- [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas
 
 ## GERADOR DE SITE ESTÁTICO
 
