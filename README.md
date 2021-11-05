@@ -43,6 +43,7 @@ Reune todos os meus projetos separados por tecnologia e ano de desenvolvimento. 
 - [Flappy Bird](https://github.com/levxyca/flappy-bird)  :computer_mouse: Clone do jogo Flappy Bird
 - [Color Flipper](https://github.com/levxyca/colorflipper) :computer_mouse: Clique no botão e a cor de fundo da página é alterada aleatoriamente e o hexadecimal da cor é mostrada no centro da tela
 - [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas
+- [Projeto 2](https://github.com/levxyca/projeto2) :computer_mouse: Esse projeto tem como objetivo implementar rotinas de processamento no lado cliente.
 
 ## GERADOR DE SITE ESTÁTICO
 
