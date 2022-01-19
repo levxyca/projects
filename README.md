@@ -20,11 +20,6 @@
 
 ## Praticando
 
-### Busque por linguagens
-
-- [HTML](#open-source)
-- [JavaScript](#praticando)
-
 #### HTML
 
 - [Simple DevSite](https://github.com/levxyca/simple-devsite) :computer_mouse: Esse foi o primeiro projeto feito ao vivo por mim na twitch para estudar conceitos básicos. A ideia é ser um site simples para devs.
@@ -56,3 +51,7 @@
 - [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas.
 
 - [Projeto 2](https://github.com/levxyca/projeto2) :computer_mouse: Esse projeto tem como objetivo implementar rotinas de processamento no lado cliente.
+
+#### Node.js
+
+- [Projeto 3](https://github.com/levxyca/projeto3) :computer_mouse: Esse projeto tem como objetivo implementar as funcionalidades de publicação de dados e busca.
