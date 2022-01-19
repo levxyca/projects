@@ -12,13 +12,17 @@
 
 - [Docs](https://github.com/levxyca/docs) :computer_mouse: Um projeto onde eu disponibilizo meus resumos e links interessantes para auxiliar outras pessoas que desejam estudar sobre programação. Criado utilizando um gerador de site estático chamado Zola.
 
-- [URI](https://github.com/levxyca/uri) :computer_mouse: O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. O logicadelevs 🤔 é um quadro do meu canal na twitch onde resolvemos exercícios de lógica do Bee com Javascript. Aqui você encontra todas as minhas resoluções.
+- [Inicie no mundo open source](https://github.com/levxyca/inicie-no-mundo-open-source) :computer_mouse: Um repositório para te introduzir no mundo open source.
+
+- [Principais TAGS "Estruturais" do HTML5](https://github.com/levxyca/tags-estruturais-html5) :computer_mouse: Esse repositório tem como objetivo reunir as principais tags "estruturais" do HTML5 e explicá-las de uma forma simples.
 
 ## Feitos para a comunidade
 
 - [Links](https://github.com/levxyca/links) :computer_mouse: Um site que agrupa links e redes sociais.
 
 - [background-size](https://github.com/levxyca/background-size) :computer_mouse: Um site para facilitar a compreensão da propriedade background-size do CSS.
+
+- [URI](https://github.com/levxyca/uri) :computer_mouse: O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. O logicadelevs 🤔 é um quadro do meu canal na twitch onde resolvemos exercícios de lógica do Bee com Javascript. Aqui você encontra todas as minhas resoluções.
 
 ## Praticando
 
@@ -53,6 +57,8 @@
 - [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas.
 
 - [Projeto 2](https://github.com/levxyca/projeto2) :computer_mouse: Esse projeto tem como objetivo implementar rotinas de processamento no lado cliente.
+
+- [Page Style Configuration](https://github.com/levxyca/page-style-configuration) :computer_mouse: Esse projeto foi criado para estudar conceitos básicos de manipulação da DOM.
 
 #### Node.js
 
