@@ -12,6 +12,8 @@
 
 - [Docs](https://github.com/levxyca/docs) :computer_mouse: Um projeto onde eu disponibilizo meus resumos e links interessantes para auxiliar outras pessoas que desejam estudar sobre programação. Criado utilizando um gerador de site estático chamado Zola.
 
+- [URI](https://github.com/levxyca/uri) :computer_mouse: O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. O logicadelevs 🤔 é um quadro do meu canal na twitch onde resolvemos exercícios de lógica do Bee com Javascript. Aqui você encontra todas as minhas resoluções.
+
 ## Feitos para a comunidade
 
 - [Links](https://github.com/levxyca/links) :computer_mouse: Um site que agrupa links e redes sociais.
