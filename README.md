@@ -22,7 +22,7 @@
 
 - [background-size](https://github.com/levxyca/background-size) :computer_mouse: Um site para facilitar a compreensão da propriedade background-size do CSS.
 
-- [URI](https://github.com/levxyca/uri) :computer_mouse: O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. O logicadelevs 🤔 é um quadro do meu canal na twitch onde resolvemos exercícios de lógica do Bee com Javascript. Aqui você encontra todas as minhas resoluções.
+- [logicadelevs](https://github.com/levxyca/logicadelevs) :computer_mouse: O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. O logicadelevs 🤔 é um quadro do meu canal na twitch onde resolvemos exercícios de lógica do Bee com Javascript. Aqui você encontra todas as minhas resoluções.
 
 ## Praticando
 
