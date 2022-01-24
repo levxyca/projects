@@ -60,6 +60,10 @@
 
 - [Page Style Configuration](https://github.com/levxyca/page-style-configuration) :computer_mouse: Esse projeto foi criado para estudar conceitos básicos de manipulação da DOM.
 
+#### React
+
+- [Aluracord](https://github.com/levxyca/aluracord) :computer_mouse: Desenvolvido durante a Imersão React da Alura.
+
 #### Node.js
 
 - [Projeto 3](https://github.com/levxyca/projeto3) :computer_mouse: Esse projeto tem como objetivo implementar as funcionalidades de publicação de dados e busca.
