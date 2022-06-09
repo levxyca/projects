@@ -26,7 +26,7 @@
 
 ## Praticando
 
-#### HTML
+### HTML
 
 - [Simple DevSite](https://github.com/levxyca/simple-devsite) :computer_mouse: Esse foi o primeiro projeto feito ao vivo por mim na twitch para estudar conceitos básicos. A ideia é ser um site simples para devs.
 
@@ -46,7 +46,7 @@
 
 - [pandadomalsite](https://github.com/levxyca/site-pandadomalbot) :computer_mouse: Site para o pandadomalbot, um bot criado para o meu [canal da twitch](https://www.twitch.tv/levxyca)
 
-#### JavaScript
+### JavaScript
 
 - [Doodle Jump](https://github.com/levxyca/doodle-jump) :computer_mouse: Clone do jogo Doodle Jump.
 
@@ -54,16 +54,32 @@
 
 - [Color Flipper](https://github.com/levxyca/colorflipper) :computer_mouse: Clique no botão e a cor de fundo da página é alterada aleatoriamente e o hexadecimal da cor é mostrada no centro da tela.
 
+- [Page Style Configuration](https://github.com/levxyca/page-style-configuration) :computer_mouse: Esse projeto foi criado para estudar conceitos básicos de manipulação da DOM.
+
+- [Search CEP](https://github.com/levxyca/searchCEP) :computer_mouse: Um site onde você insere um CEP e ele retorna dados sobre o local informado.
+
+- [music-library-page](https://github.com/levxyca/music-library-page) :computer_mouse: O desafio é reproduzir um dashboard de um sistema de músicas semelhante ao Spotify, onde é possível visualizar playlists, tracks e artistas.
+
+- [7DaysOfCode](https://github.com/levxyca/7DaysOfCode) :computer_mouse: Revisando conceitos de lógica com JavaScript no desafio #7DaysOfCode.
+
+- [CRUD Web com JavaScript](https://github.com/levxyca/crud-web) :computer_mouse: Fazendo um CRUD web com JavaScript.
+
+- [Contador](https://github.com/levxyca/counter) :computer_mouse: Um contador feito com JavaScript.
+
+- [Carrossel](https://github.com/levxyca/carrossel) :computer_mouse: Um carrossel feito com JavaScript.
+
+> Projeto divido em três partes realizado para a disciplina de Programação Web do curso de Tecnologia em Análise e Desenvolvimento de Sistemas
+
 - [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas.
 
 - [Projeto 2](https://github.com/levxyca/projeto2) :computer_mouse: Esse projeto tem como objetivo implementar rotinas de processamento no lado cliente.
 
-- [Page Style Configuration](https://github.com/levxyca/page-style-configuration) :computer_mouse: Esse projeto foi criado para estudar conceitos básicos de manipulação da DOM.
+- [Projeto 3](https://github.com/levxyca/projeto3) :computer_mouse: Esse projeto tem como objetivo implementar as funcionalidades de publicação de dados e busca.
 
-#### React
+### React
 
 - [Aluracord](https://github.com/levxyca/aluracord) :computer_mouse: Desenvolvido durante a Imersão React da Alura.
 
-#### Node.js
+### React Native
 
-- [Projeto 3](https://github.com/levxyca/projeto3) :computer_mouse: Esse projeto tem como objetivo implementar as funcionalidades de publicação de dados e busca.
+- [Flashcards](https://github.com/levxyca/flashcards) :computer_mouse: Aplicativo para uso de flashcards feito com React Native.
