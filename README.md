@@ -68,6 +68,10 @@
 
 - [Carrossel](https://github.com/levxyca/carrossel) :computer_mouse: Um carrossel feito com JavaScript.
 
+- [Menu](https://github.com/levxyca/menu) :computer_mouse: Uma página de menu de restaurante com JavaScript.
+
+- [Pomodoro](https://github.com/levxyca/pomodoro) :computer_mouse: Uma ferramenta para auxiliar quem trabalha com o método pomodoro.
+
 > Projeto divido em três partes realizado para a disciplina de Programação Web do curso de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 - [Noteshelf](https://github.com/levxyca/noteshelf) :computer_mouse: Um clone do site do [Noteshelf](https://www.noteshelf.net/) criado com HTML e CSS para a disciplina de Programação Web do curso de Análise e Desenvolvimento de Sistemas.
