@@ -87,3 +87,11 @@
 ### React Native
 
 - [Flashcards](https://github.com/levxyca/flashcards) :computer_mouse: Aplicativo para uso de flashcards feito com React Native.
+
+### Next.js
+
+> O protótipo consiste em uma página de login e algumas páginas com listas.
+
+- [Login / Front-end](https://github.com/levxyca/login-front-end)
+
+- [Login / Back-end](https://github.com/levxyca/login-back-end)
